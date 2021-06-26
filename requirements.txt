@@ -1,0 +1,12 @@
+certifi==2021.5.30
+chardet==4.0.0
+click==8.0.1
+gTTS==2.2.3
+idna==2.10
+pydub==0.25.1
+pygame==2.0.1
+pyglet==1.5.18
+requests==2.25.1
+six==1.16.0
+SpeechRecognition==3.8.1
+urllib3==1.26.6
